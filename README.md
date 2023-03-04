@@ -6,3 +6,7 @@ desenvolvido com 43.4% de elementos HTML, 46.7% de variáveis CSS e
 https://github.com/codewithsadee/grilli
 #
 https://codewithsadee.github.io/grilli/#top
+# Video Extra
+https://youtu.be/8U8DgrKH4QY
+#
+#
