@@ -1,16 +1,34 @@
 # ChristinelliEventos
 Site responsivo de um buffet, adaptado por MQJogos,
-desenvolvido com 63.0% de elementos HTML, 34.5% de variáveis CSS e 
-2.5% de práticas JavaScript.
+desenvolvido com HTML, CSS, JavaScript e uma pitadinha de SCSS!
+
+# CÓDIGO FONTE:
+ - https://youtu.be/Ed0uh9Mbe8M?si=1E_S5oXFNIZ7xAFy
 #
-https://youtu.be/CjVGp5kGHxA
+ - https://youtu.be/Uxm17PTHAZw?si=mYzmq6Ja2BPNlGib
 #
-https://github.com/codewithsadee/grilli
+ - https://www.youtube.com/watch?v=wkDAd26xf5w
 #
-https://codewithsadee.github.io/grilli/#top
-# Videos Extra
-# 1
-https://youtu.be/8U8DgrKH4QY
-#
-# 2
-https://youtu.be/CjGEuLgt4nw
+ - https://www.youtube.com/watch?v=xSC1dfyBLFU
+
+# Color Palette:
+ - https://mycolor.space
+
+# Editor de Imagens Online:
+ - https://www.resizepixel.com/pt/edit
+
+# Imagens:
+- https://www.freepik.com/
+- https://www.storyset.com/
+- https://www.undraw.com/
+- https://www.pixabay.com/
+- https://www.unsplash.com/
+- https://www.pixabay.com/
+- https://www.flaticon.com/
+- https://www.pngegg.com/
+
+
+
+
+
+
