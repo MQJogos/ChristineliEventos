@@ -13,6 +13,7 @@ desenvolvido com HTML, CSS, JavaScript e uma pitadinha de SCSS!
 
 # Color Palette:
  - https://mycolor.space
+ - https://color.adobe.com/pt/create/image
 
 # Editor de Imagens Online:
  - https://www.resizepixel.com/pt/edit
